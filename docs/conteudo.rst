@@ -355,7 +355,7 @@ Serve para indicar a língua e o alfabeto utilizados.
 
 Neste campo indica-se como foi criado o registo de autoridade, incluindo
 as fontes consultadas para a sua criação e outras notas importantes à
-manutenção do registo.
+manutenção do registo.  
 
 .. |image0| image:: _static/images/contextoconteudo.jpg
    :width: 300px
